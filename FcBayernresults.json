@@ -1,0 +1,50 @@
+{
+  "Results": [
+    {
+      "date": "29. September 2023",
+      "day": "Fr.",
+      "time": "20:00 Uhr",
+      "home_team": "FC Bayern Basketball",
+      "opponent": "Mitteldeutscher Basketball Club",
+      "league": "easyCredit Basketball Bundesliga",
+      "results": " 10:2"
+    },
+    {
+      "date": "5. Oktober 2023",
+      "day": "Do.",
+      "time": "20:30 Uhr",
+      "home_team": "FC Bayern Basketball",
+      "opponent": "ALBA Berlin",
+      "league": "easyCredit Basketball Bundesliga",
+      "results": "11:5"
+    },
+    {
+      "date": "8. Oktober 2023",
+      "day": "So.",
+      "time": "17:00 Uhr",
+      "home_team": "FC Bayern Basketball",
+      "opponent": "Veolia Towers Hamburg",
+      "league": "easyCredit Basketball Bundesliga",
+      "results": "88:66"
+    },
+    {
+      "date": "29. Oktober 2023",
+      "day": "So.",
+      "time": "15:30 Uhr",
+      "home_team": "FC Bayern Basketball",
+      "opponent": "Würzburg Baskets",
+      "league": "easyCredit Basketball Bundesliga",
+      "results": "74:12"
+    },
+    {
+      "date": "15. November 2023",
+      "day": "Mi.",
+      "time": "20:30 Uhr",
+      "home_team": "FC Bayern Basketball",
+      "opponent": "Partizan NIS Belgrad",
+      "league": "Turkish Airlines EuroLeague",
+      "results": "103:52"
+    }
+    // Weitere Spiele können hier analog hinzugefügt werden.
+  ]
+}
